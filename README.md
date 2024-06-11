@@ -1,7 +1,7 @@
 # Excel-EtmlGrades
 👨🏼‍💻 Entrez vos notes dans le gestionnaire de notes de l'ETML !
 
-![Gestionnaire de notes](images/logo.png)
+![Gestionnaire de notes](images/excelGrades.png)
 
 Bienvenue sur mon projet excel-etmlGrades, qui vous permettra de calculer toutes vos notes/moyennes afin d'avoir un suivi de celles-ci !
 
